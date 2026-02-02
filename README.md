@@ -26,7 +26,7 @@ npx create-nexo -p saas
 npx create-nexo -p dashboard
 
 # Or select interactively
-nexo create my-app
+npx create-nexo my-app
 ```
 
 ## 🛠️ Contributing
