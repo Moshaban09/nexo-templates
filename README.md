@@ -22,8 +22,8 @@ These templates are designed to be used with the Nexo CLI:
 
 ```bash
 # Create a new project with a specific preset
-nexo create my-app -p saas
-nexo create my-app -p dashboard
+npx create-nexo -p saas
+npx create-nexo -p dashboard
 
 # Or select interactively
 nexo create my-app
