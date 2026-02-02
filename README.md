@@ -25,8 +25,6 @@ These templates are designed to be used with the Nexo CLI:
 npx create-nexo -p saas
 npx create-nexo -p dashboard
 
-# Or select interactively
-npx create-nexo my-app
 ```
 
 ## 🛠️ Contributing
